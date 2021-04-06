@@ -1,0 +1,54 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#app {
+  font-family: SuisseIntl-Light, Helvetica, Arial, sans-serif;
+  color: #333333;
+  margin-top: 60px;
+}
+
+h1 {
+  font-size: 50px;
+  line-height: 48px;
+}
+
+h2 {
+  font-size: 34px;
+  line-height: 48px;
+}
+
+h3 {
+  font-size: 26px;
+  line-height: 34px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+p {
+  font-size: 15px;
+  line-height: 28px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  max-width: 1280px;
+  padding: 0 60px;
+  margin: 0 auto;
+}
+
+.green {
+  color: #3db565;
+}
